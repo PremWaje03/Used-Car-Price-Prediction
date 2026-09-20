@@ -19,3 +19,5 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.log
+
+data/cars_data_clean.csv
