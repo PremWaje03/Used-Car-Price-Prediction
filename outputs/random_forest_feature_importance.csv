@@ -1,0 +1,536 @@
+Feature,Importance
+num__Max Power Delivered,0.4011715320807298
+num__vehicle_age,0.12895059616717605
+num__Width,0.09600506705687904
+num__Wheel Base,0.07147457216711524
+num__Max Torque Delivered,0.05439936375434615
+num__Length,0.044502324388954136
+cat__oem_rolls-royce,0.043413324428881066
+cat__model_rolls-royce phantom,0.04336831290606681
+num__km,0.012565799464511813
+num__No of Cylinder,0.011019747178924264
+num__Height,0.010843471712271572
+num__Max Power At,0.010183936227215116
+num__Kerb Weight,0.00725716385956689
+cat__transmission_automatic,0.005059325043958693
+cat__transmission_manual,0.004942563696202858
+num__Max Torque At,0.004886751627428493
+cat__Gear Box_9 speed,0.004770314762639391
+cat__oem_mercedes-benz,0.004707699014017573
+num__Cargo Volume,0.002957728408225877
+num__Seats,0.0021960460946128506
+cat__model_toyota vellfire,0.0017787230152230056
+cat__state_karnataka,0.001496590335437046
+cat__oem_lamborghini,0.0010512770537228736
+cat__model_lamborghini huracan,0.0009168535118671915
+cat__Front Brake Type_caliper,0.0009111595959819353
+cat__state_maharashtra,0.0008617210042758366
+cat__model_mahindra xuv700,0.0008312473613666694
+cat__Rear Brake Type_disc,0.0007866485776407126
+cat__state_delhi,0.0007288616023063489
+cat__oem_mahindra,0.0007182223923091191
+cat__Drive Type_awd,0.0006060816254508133
+cat__Rear Brake Type_caliper,0.0006010609845580178
+cat__state_tamil nadu,0.0005921620909351221
+cat__state_telangana,0.0005697454076670533
+cat__state_haryana,0.0005376331301420605
+cat__owner_type_first,0.0005203036469558894
+cat__model_mercedes-benz maybach s-class,0.0005172655149921363
+cat__body_hatchback,0.0005009191628523985
+cat__Gear Box_6 speed,0.00048569093134455827
+cat__Rear Brake Type_drum,0.00047569990714269814
+num__Doors,0.0004690533570424032
+cat__oem_lexus,0.0004596085193610059
+cat__model_lexus lx,0.00045816580925247895
+cat__model_land rover range rover,0.0004574272236663978
+cat__model_land rover range rover sport,0.00045728211249410056
+cat__Gear Box_7 speed,0.0004548993675577338
+cat__oem_bentley,0.0004423679591300626
+cat__owner_type_second,0.00043800722001898157
+cat__body_sedan,0.0004335272741106145
+cat__body_coupe,0.00043251339712981155
+cat__oem_land rover,0.00042464854448659884
+cat__owner_type_third,0.0004193811061071158
+cat__Drive Type_rwd,0.0004186924594254715
+cat__Rear Brake Type_ventilated disc,0.0004112969208433714
+cat__oem_hyundai,0.00039632602103729
+cat__state_uttar pradesh,0.00039099124845834806
+cat__Front Brake Type_ventilated disc,0.0003854991399640583
+cat__state_west bengal,0.0003850949781095067
+cat__Gear Box_5 speed,0.00037844526167868364
+cat__Gear Box_8 speed,0.00034819718374924327
+cat__Drive Type_fwd,0.00033763541482278525
+cat__Front Brake Type_disc,0.00032526400825019634
+cat__oem_audi,0.00032380382692115335
+cat__model_bentley continental,0.0002960367061927595
+cat__model_mercedes-benz s-class,0.00029296968258430637
+cat__oem_bmw,0.00028888939695533093
+cat__oem_toyota,0.0002855767611320636
+cat__state_gujarat,0.0002648310822779846
+cat__body_suv,0.000237751358706097
+cat__oem_porsche,0.00023260363238663062
+cat__model_lamborghini huracan evo,0.00022369851580803337
+cat__Drive Type_4wd,0.00021780997693548416
+cat__oem_tata,0.0002140625238100849
+cat__oem_mini,0.00020398046436574985
+cat__state_rajasthan,0.00020097911133085328
+cat__fuel_diesel,0.00019898771573384065
+cat__model_audi a4,0.00019156089466498767
+cat__fuel_petrol,0.00018426480717707356
+cat__model_hyundai santa fe,0.00017799509242007443
+cat__model_jaguar f-pace,0.0001776087745604906
+cat__oem_hummer,0.0001757298856349999
+cat__model_toyota land cruiser,0.0001721663814156586
+cat__model_hummer h3,0.00016340301635861594
+cat__model_bmw 7 series,0.00016192147233201994
+cat__Turbo Charger_False,0.0001594981467794556
+cat__Super Charger_False,0.00015246443548562203
+cat__body_muv,0.0001511178987922448
+cat__Front Brake Type_carbon ceramic,0.00013486609911644978
+cat__model_bmw x3,0.00012137330648909635
+cat__model_mini cooper,0.00011981875087099466
+cat__Super Charger_True,0.00011809771507726127
+cat__Tyre Type_runflat,0.00011629639575213953
+cat__state_madhya pradesh,0.00011097085422850205
+cat__model_mercedes-benz gle,0.00011094271165235447
+cat__Turbo Charger_True,0.0001073048832310987
+cat__oem_mg,9.691721309402083e-05
+cat__oem_chevrolet,9.578367007506159e-05
+cat__model_bmw 3 series gran limousine,9.364485709568409e-05
+cat__model_toyota innova,9.341925570710524e-05
+cat__Tyre Type_tubeless radial,9.213883556884453e-05
+cat__model_mg astor,9.099989129222568e-05
+cat__model_jaguar xj,9.033767037837293e-05
+cat__oem_mahindra ssangyong,8.584465747785063e-05
+cat__model_porsche cayenne,8.275388091125086e-05
+cat__model_toyota fortuner,8.102247527709405e-05
+cat__body_luxury vehicles,7.712653509321714e-05
+cat__oem_jaguar,7.387864295603885e-05
+cat__model_bmw x1,6.998803557424852e-05
+cat__state_punjab,6.969502823776879e-05
+cat__model_mercedes-benz glc,6.80871914996303e-05
+cat__model_hyundai verna,6.677021378672961e-05
+cat__model_mercedes-benz amg gle 53,6.599834837731632e-05
+cat__Drive Type_2wd,6.532091453971894e-05
+cat__body_hybrids,6.492053126567332e-05
+cat__model_jaguar f-type,6.491209333662213e-05
+cat__oem_jeep,6.431550728804097e-05
+cat__model_lexus nx,6.187681018487343e-05
+cat__Tyre Type_tubeless,6.12778906090299e-05
+cat__model_mercedes-benz e-class,6.0546073666242376e-05
+cat__model_mercedes-benz c-class,6.011055881848001e-05
+cat__model_mahindra ssangyong rexton,5.722829246413966e-05
+cat__state_chandigarh,5.627553559975316e-05
+cat__state_uttarakhand,5.4246578716569446e-05
+cat__model_land rover range rover velar,5.3742014523689185e-05
+cat__state_odisha,5.001494818471304e-05
+cat__model_bmw x5,4.878800328177988e-05
+cat__model_mercedes-benz gla,4.852581738198527e-05
+cat__owner_type_unregistered car,4.405851885226719e-05
+cat__state_kerala,4.242398723972927e-05
+cat__oem_maruti,4.1991792143612815e-05
+cat__model_land rover discovery sport,4.070152237350568e-05
+cat__model_maruti ertiga,4.052288557576589e-05
+cat__oem_volkswagen,3.9305867695376925e-05
+cat__owner_type_fourth,3.863749017057116e-05
+cat__fuel_electric,3.851394220317309e-05
+cat__model_tata hexa,3.736602898479346e-05
+cat__model_audi q3,3.611450701261035e-05
+cat__body_convertibles,3.488735834942447e-05
+cat__model_audi q5,3.4260936777538415e-05
+cat__model_maruti swift dzire,3.3715922029086604e-05
+cat__oem_honda,3.3343514086934923e-05
+cat__model_mercedes-benz v-class,3.138076780420544e-05
+cat__model_jeep compass trailhawk,3.122816374449629e-05
+cat__oem_volvo,2.8139129366984928e-05
+cat__model_bmw 5 series,2.7541141824212113e-05
+cat__oem_skoda,2.6971592785322544e-05
+cat__model_porsche macan,2.691555895326946e-05
+cat__model_mini cooper se,2.5711883951758885e-05
+cat__Valve Configuration_dohc,2.394617741622519e-05
+cat__model_mahindra xuv500,2.392012070083914e-05
+cat__model_mercedes-benz gla class,2.3343970013059717e-05
+cat__model_bmw m series,2.3325189989813383e-05
+cat__state_bihar,2.306561852802516e-05
+cat__model_volvo s60,2.1886319628325028e-05
+cat__model_maruti ciaz,2.1848386640408266e-05
+cat__model_chevrolet cruze,2.1760405874120898e-05
+cat__model_audi s5,2.1741874762508385e-05
+cat__Gear Box_cvt,2.1575795228913924e-05
+cat__model_hyundai tucson,2.1304679985722594e-05
+cat__Valve Configuration_sohc,2.1169712561182893e-05
+cat__model_mercedes-benz m-class,2.098730918722446e-05
+cat__model_kia carnival,2.0396760589626043e-05
+cat__model_mercedes-benz cls-class,1.998943070074726e-05
+cat__model_audi a6,1.9545667879565058e-05
+cat__model_bmw 3 series,1.952140467081348e-05
+cat__model_jeep meridian,1.928448446863567e-05
+cat__model_honda city,1.9074622776442457e-05
+cat__model_jaguar xf,1.9021163221199163e-05
+cat__model_volvo xc 90,1.8808030661114242e-05
+cat__state_andhra pradesh,1.873022805908662e-05
+cat__state_jharkhand,1.8219137224077424e-05
+cat__model_mercedes-benz gls,1.8074307615182218e-05
+cat__oem_kia,1.7764214681271144e-05
+cat__model_skoda kodiaq,1.7273134703675483e-05
+cat__state_jammu & kashmir,1.6474969712404534e-05
+cat__model_volvo s90,1.644262945548568e-05
+cat__oem_ford,1.6160592749060587e-05
+num__Valves per Cylinder,1.5754333296094576e-05
+cat__model_land rover defender,1.4793795985338542e-05
+cat__Drive Type_4x2,1.4336301458781316e-05
+cat__model_maruti vitara brezza,1.3877510900775876e-05
+cat__Rear Brake Type_carbon ceramic,1.3827888202716412e-05
+cat__model_bmw 3 series gt,1.3649370982081109e-05
+cat__model_mg gloster,1.3369772564341233e-05
+cat__Gear Box_4 speed,1.2948377121835866e-05
+cat__model_toyota camry,1.2564850233062265e-05
+cat__model_land rover range rover evoque,1.200097068355854e-05
+cat__model_jeep grand cherokee,1.153480330806102e-05
+cat__state_chhattisgarh,1.1488791089823371e-05
+cat__oem_renault,1.1348571443718703e-05
+cat__model_bmw 6 series,1.11116268231792e-05
+cat__oem_fiat,1.066828552300499e-05
+cat__model_maruti grand vitara,1.0103645113257528e-05
+cat__model_mahindra xuv300,1.0087570005160554e-05
+cat__model_audi a3,9.932465011444234e-06
+cat__model_jeep compass,9.801073889087955e-06
+cat__owner_type_fifth,9.615829690707474e-06
+cat__model_volkswagen touareg,9.167416950986662e-06
+cat__model_skoda superb,9.106673803765439e-06
+cat__model_skoda octavia,8.898868277672087e-06
+cat__model_nissan sunny,8.440181975069354e-06
+cat__model_hyundai alcazar,8.36249126231049e-06
+cat__model_maruti swift,8.272558955172037e-06
+cat__model_mahindra scorpio,8.218943663067472e-06
+cat__model_mercedes-benz slc,8.202970119400055e-06
+cat__oem_maserati,8.110865799645836e-06
+cat__model_tata xenon xt,8.03929885622466e-06
+cat__fuel_cng,7.824722487344469e-06
+cat__oem_mitsubishi,7.612647129361523e-06
+cat__model_audi tt,7.575746504093607e-06
+cat__model_tata new safari,7.506419436292975e-06
+cat__model_hyundai i20,7.463894775651082e-06
+cat__model_renault duster,7.435160212253832e-06
+cat__model_jaguar xe,7.429804778858184e-06
+cat__model_mahindra xylo,7.363326067855759e-06
+cat__Valve Configuration_idsi,7.1592787951773505e-06
+cat__model_hyundai creta,6.98580884357435e-06
+cat__model_mg hector plus,6.972814984372381e-06
+cat__model_volkswagen gti,6.922798780562538e-06
+cat__model_bmw x7,6.830330511462688e-06
+cat__oem_isuzu,6.828519131619395e-06
+cat__model_mitsubishi pajero,6.812654749187285e-06
+cat__model_chevrolet enjoy,6.810033536879874e-06
+cat__model_volvo xc60,6.730722312397214e-06
+cat__model_mg hector,6.5010551346574945e-06
+cat__oem_datsun,6.273530893347852e-06
+cat__Gear Box_1 speed,6.131965654024845e-06
+cat__oem_citroen,6.113596249002082e-06
+cat__model_mahindra thar,6.000953617742023e-06
+cat__model_land rover discovery,5.931853689636406e-06
+cat__model_mercedes-benz eqc,5.892132777869415e-06
+cat__oem_nissan,5.821257563859337e-06
+cat__model_audi a8,5.507993597734748e-06
+cat__model_isuzu d-max,5.506867111553817e-06
+cat__model_volkswagen vento,5.4583376621055136e-06
+cat__model_kia seltos,5.439054015607952e-06
+cat__model_honda civic,5.402335659479276e-06
+cat__model_ford endeavour,5.366165294148007e-06
+cat__model_dc avanti,5.349382174430838e-06
+cat__body_wagon,5.276706509143444e-06
+cat__model_tata nexon,4.970199388417791e-06
+cat__model_mercedes-benz amg a 35,4.928452295682382e-06
+cat__model_audi q7,4.851662656757907e-06
+cat__model_jeep wrangler,4.731968403734724e-06
+cat__model_honda accord,4.696272119305109e-06
+cat__model_mercedes-benz cla,4.635938070853424e-06
+cat__model_hyundai elantra,4.398172937350962e-06
+cat__model_maserati ghibli,4.393052192670449e-06
+cat__model_kia sonet,4.391011872301883e-06
+cat__body_pickup trucks,4.387786389256708e-06
+cat__model_audi a3 cabriolet,4.159539157927409e-06
+cat__model_toyota innova crysta,4.090883900310191e-06
+cat__model_toyota corolla altis,4.056159243789945e-06
+cat__model_citroen c5 aircross,4.028242770298755e-06
+cat__model_mercedes-benz glc coupe,4.020677535927969e-06
+cat__model_bmw 2 series,3.9495207223713295e-06
+cat__model_skoda rapid,3.864215657650214e-06
+cat__model_volvo v90 cross country,3.822610409612908e-06
+cat__model_audi q2,3.7846229311024766e-06
+cat__Steering Type_power,3.7479096714979603e-06
+cat__model_volvo s 80,3.6384787405719636e-06
+cat__model_fiat linea,3.6243802946739044e-06
+cat__Steering Type_manual,3.508205169979161e-06
+cat__model_honda cr-v,3.4914972059043363e-06
+cat__model_maruti wagon r,3.4432156694976707e-06
+cat__oem_dc,3.4024959064427596e-06
+cat__state_pondicherry,3.347574797855577e-06
+cat__model_chevrolet captiva,3.229357334789029e-06
+cat__model_hyundai grand i10,3.1807883506044347e-06
+cat__model_audi q8,3.1787361023439873e-06
+cat__model_mini 5 door,3.1770719941327634e-06
+cat__model_chevrolet trailblazer,3.0924236106854675e-06
+cat__model_volkswagen polo,3.0183121206655963e-06
+cat__model_mini cooper countryman,2.9231636242078013e-06
+cat__model_maruti celerio,2.8763558158009302e-06
+cat__model_mahindra alturas g4,2.745303164943509e-06
+cat__model_mercedes-benz b class,2.617235130159486e-06
+cat__model_mercedes-benz a-class limousine,2.6049831706328782e-06
+cat__model_mercedes-benz gl-class,2.5435478306755147e-06
+cat__state_assam,2.50099842718805e-06
+cat__state_himachal pradesh,2.4961389073685185e-06
+cat__model_skoda kushaq,2.3998540794321978e-06
+cat__model_ford ecosport,2.332052827587789e-06
+cat__fuel_lpg,2.2996929658061153e-06
+cat__model_hyundai venue,2.251438444547336e-06
+cat__model_kia carens,2.243867550351223e-06
+cat__model_tata harrier,2.1597908183860475e-06
+cat__model_mitsubishi outlander,2.139461024348507e-06
+cat__model_volkswagen tiguan,2.1048995950425535e-06
+cat__model_mercedes-benz a class,2.0869315365122583e-06
+cat__model_honda br-v,2.0360605298307705e-06
+cat__model_mercedes-benz slk-class,1.9763139749561313e-06
+cat__model_volkswagen ameo,1.9660345808768714e-06
+cat__model_ford aspire,1.964427075176671e-06
+cat__model_volvo v40,1.933968242912868e-06
+cat__model_mahindra tuv 300,1.9004404505789847e-06
+cat__model_hyundai i10,1.8961905824885706e-06
+cat__model_mahindra quanto,1.8796847729419873e-06
+cat__state_arunachal pradesh,1.772241531897916e-06
+cat__model_renault kwid,1.6862946972863604e-06
+cat__model_tata indigo,1.6602644568190633e-06
+cat__model_land rover discovery 4,1.6488313800546325e-06
+cat__model_audi a7,1.6182683149766037e-06
+cat__model_hyundai aura,1.6162265815600091e-06
+cat__model_mahindra bolero,1.547713267637797e-06
+cat__model_hyundai santro xing,1.542465169445698e-06
+cat__Gear Box_fully automatic,1.535292567543771e-06
+cat__model_datsun go,1.5222972809692277e-06
+cat__model_tata nexon ev prime,1.5079509698512289e-06
+cat__model_honda amaze,1.5073477750708875e-06
+cat__model_honda wr-v,1.477254361665846e-06
+cat__model_mg zs ev,1.4629920864393936e-06
+cat__model_mahindra scorpio classic,1.451541110705018e-06
+cat__model_toyota prius,1.4276028195551336e-06
+cat__model_volkswagen passat,1.4267230177953671e-06
+cat__model_nissan kicks,1.3795485030769372e-06
+cat__model_tata safari storme,1.3601805970772728e-06
+cat__model_maruti gypsy,1.3547190630132098e-06
+cat__body_minivans,1.3160309958296038e-06
+cat__model_mahindra marazzo,1.2672787341779854e-06
+cat__model_mahindra tuv 300 plus,1.2580575521470503e-06
+cat__model_maruti baleno,1.2537680795906637e-06
+cat__model_honda mobilio,1.2229049755056627e-06
+cat__model_toyota hilux,1.2139787873058689e-06
+cat__model_ford figo,1.200735520378293e-06
+cat__model_isuzu mu 7,1.1917881311296577e-06
+cat__model_honda jazz,1.1854424313943368e-06
+cat__model_chevrolet beat,1.1796275857263798e-06
+cat__model_tata zest,1.1747435549284417e-06
+cat__model_isuzu mu-x,1.1734038699676414e-06
+cat__model_volvo xc40,1.112315398544581e-06
+cat__model_toyota urban cruiser,1.1066150563558706e-06
+cat__state_goa,1.1058055210562719e-06
+cat__model_maruti omni,1.1048522206991004e-06
+cat__oem_mahindra renault,1.0771399011119274e-06
+cat__model_maruti celerio tour 2018-2021,1.0732302743738256e-06
+cat__model_maruti sx4 s cross,1.0705939238329735e-06
+cat__model_lexus es,1.0682293559993715e-06
+cat__model_hyundai xcent,1.067810525278389e-06
+cat__model_mahindra scorpio n,1.0534844841424656e-06
+cat__model_force one,1.041714990544319e-06
+cat__model_renault scala,1.0330233797079513e-06
+cat__model_toyota prado,1.0176165023777796e-06
+cat__model_nissan micra,1.00587611257794e-06
+cat__model_tata nexon ev max,9.436443865016504e-07
+cat__model_tata aria,9.423321146681221e-07
+cat__Front Brake Type_disc & drum,9.379260465333614e-07
+cat__model_skoda yeti,9.172383752651963e-07
+cat__oem_force,9.043192426110931e-07
+cat__model_maruti xl6,8.984196567150402e-07
+cat__model_maruti ignis,8.411930861243005e-07
+cat__model_maruti zen estilo,8.324826999746027e-07
+cat__model_tata altroz,7.823582884425704e-07
+cat__model_toyota glanza,7.774505599366835e-07
+cat__model_chevrolet tavera,7.751571022467974e-07
+cat__state_tripura,7.635764787581374e-07
+cat__model_maruti ritz,7.537209349286668e-07
+cat__model_tata indica,7.47627063090062e-07
+cat__model_fiat punto,7.476063155977912e-07
+cat__model_land rover freelander 2,7.28824613591263e-07
+cat__model_hyundai sonata,7.195249758993166e-07
+cat__model_renault kiger,7.12653047243868e-07
+cat__model_volvo v40 cross country,7.034406207404863e-07
+cat__model_fiat punto evo,6.868029647182154e-07
+cat__model_volkswagen jetta,6.835222018023422e-07
+cat__model_tata tiago,6.38474951380798e-07
+cat__model_hyundai grand i10 nios,6.384580532934617e-07
+cat__model_skoda slavia,6.266806334512119e-07
+cat__model_tata manza,6.259094470844738e-07
+cat__model_mahindra kuv 100,6.145115464659695e-07
+cat__model_mahindra nuvosport,5.970218336699344e-07
+cat__model_chevrolet sail,5.899825851692487e-07
+cat__model_tata tigor,5.8418069019829e-07
+cat__model_nissan micra active,5.607205401959597e-07
+cat__model_mercedes-benz e-class all-terrain,5.59838079330811e-07
+cat__model_hyundai i20 active,5.557660015390212e-07
+cat__model_maruti alto k10,5.506423284018665e-07
+cat__model_nissan terrano,5.505626527355774e-07
+cat__model_volvo s60 cross country,5.500986502294238e-07
+cat__model_audi a5,5.458731582531928e-07
+cat__model_mahindra renault logan,5.190676244602391e-07
+cat__model_citroen c3,5.132917885174968e-07
+cat__model_renault lodgy,5.048209113193222e-07
+cat__model_renault captur,5.029357131213704e-07
+cat__model_hyundai santro,4.8628660547629e-07
+cat__model_datsun redigo,4.774613537524284e-07
+cat__model_ford fiesta,4.486820678786484e-07
+cat__model_nissan magnite,4.484909736555067e-07
+cat__model_hyundai kona,4.397660936964767e-07
+cat__model_volkswagen virtus,4.3448168944518013e-07
+cat__model_toyota etios,4.225130591822569e-07
+cat__model_volkswagen taigun,4.2169078982418356e-07
+cat__model_renault triber,4.179418197431154e-07
+cat__model_chevrolet optra,4.13079168884403e-07
+cat__model_renault pulse,4.0615313567168803e-07
+cat__model_ford freestyle,4.049690581001191e-07
+cat__model_toyota platinum etios,3.7758273975837783e-07
+cat__model_skoda fabia,3.7591980151851494e-07
+cat__model_fiat grande punto,3.7333898278887137e-07
+cat__model_mercedes-benz r-class,3.6283097097085127e-07
+cat__model_bmw z4,3.60261543172087e-07
+cat__model_toyota etios cross,3.595760672594844e-07
+cat__model_chevrolet sail hatchback,3.5391581456996825e-07
+cat__Valve Configuration_16 modules 48 cells,3.5223760369872385e-07
+cat__model_maruti kizashi,3.481285378437893e-07
+cat__model_toyota etios liva,3.437240025985733e-07
+cat__model_mahindra armada,3.202177267003281e-07
+cat__model_audi a8 2010-2013,3.13824142278082e-07
+cat__model_force trax cruiser,3.0670282305332807e-07
+cat__model_aston martin vantage,3.0425591516810947e-07
+cat__model_bmw x6,2.975157908984308e-07
+cat__Gear Box_direct drive,2.936749658095488e-07
+cat__model_skoda karoq,2.8979064415590733e-07
+cat__model_volkswagen t-roc,2.8827323702913117e-07
+cat__model_mahindra bolero power plus,2.8587064052279683e-07
+cat__model_mahindra e2o plus,2.758882739939611e-07
+cat__model_bmw x4,2.650514417513504e-07
+cat__model_bmw m2,2.6305473013615485e-07
+cat__model_renault fluence,2.611904430123879e-07
+cat__model_tata yodha pickup,2.605578981882649e-07
+cat__model_mahindra verito vibe,2.575836528945275e-07
+cat__model_toyota fortuner legender,2.5638391308807187e-07
+cat__model_maruti alto 800,2.556765543387102e-07
+cat__model_chevrolet spark,2.509782490302745e-07
+cat__model_tata tigor ev,2.506308299059314e-07
+cat__model_hyundai accent,2.4712173269751357e-07
+cat__model_mahindra kuv 100 nxt,2.4209003270817696e-07
+cat__model_honda brio,2.414008498127245e-07
+cat__model_maruti swift dzire tour,2.3838025164453948e-07
+cat__model_maruti sx4,2.3519795190128757e-07
+cat__model_hyundai eon,2.2854050924381928e-07
+cat__model_datsun go plus,2.1259025342013836e-07
+cat__model_tata nano,1.9907586366455728e-07
+cat__model_porsche panamera,1.9662706434019752e-07
+cat__model_skoda new laura,1.8837312343607955e-07
+cat__model_mahindra bolero maxi truck plus,1.8563017291174917e-07
+cat__model_toyota etios 2014-2016,1.7735771215560986e-07
+cat__Front Brake Type_drum,1.7408480410053041e-07
+cat__model_hyundai elite i20 2018,1.6449580035299233e-07
+cat__Rear Brake Type_disc & drum,1.6418223993653e-07
+cat__model_maruti brezza,1.635103533265121e-07
+cat__model_tata punch,1.5455171202157134e-07
+cat__model_maruti estilo,1.5088330184646162e-07
+cat__model_nissan teana,1.500458865281108e-07
+cat__model_hyundai i20 n line,1.4640963257347218e-07
+cat__model_chevrolet aveo u-va,1.440464240944918e-07
+cat__model_maruti a-star,1.3840496224671118e-07
+cat__model_volvo xc90,1.3637808530593525e-07
+cat__model_maruti eeco,1.363710322669504e-07
+cat__model_volkswagen crosspolo,1.350931972278535e-07
+cat__model_mahindra bolero pik up extra strong,1.331599161791411e-07
+cat__model_tata indica ev2,1.3260084883596918e-07
+cat__state_meghalaya,1.2742529852590972e-07
+cat__model_mercedes-benz sl-class,1.1608509174553456e-07
+cat__model_mahindra verito,1.1248640710113781e-07
+cat__model_ford ikon,1.1193580900157146e-07
+cat__state_sikkim,1.0862340686767915e-07
+cat__model_mini 3 door,1.054164364041672e-07
+cat__model_maruti wagon r stingray,1.0525782768433202e-07
+cat__state_daman and diu,1.0515382993322475e-07
+cat__model_toyota yaris,1.0410887169963547e-07
+cat__model_maruti alto,1.0194730741252247e-07
+cat__model_chevrolet forester,1.017518411319665e-07
+cat__model_hyundai xcent prime,1.00770729706228e-07
+cat__model_bmw 1 series,9.991506757426238e-08
+cat__model_maruti celerio x,9.667622883913072e-08
+cat__model_chevrolet aveo,9.40560724918597e-08
+cat__model_mahindra bolero pik up extra long,8.650980007899444e-08
+cat__model_mahindra e verito,7.564191309747451e-08
+cat__model_tata sumo victa,7.527657521328208e-08
+cat__model_nissan evalia,7.28651094672214e-08
+cat__model_tata tiago nrg,7.226185596814082e-08
+cat__model_tata bolt,6.877667493262976e-08
+cat__Gear Box_10 speed,6.731048797221111e-08
+cat__model_maruti s-presso,6.487803696241021e-08
+cat__Valve Configuration_ohv / pushrod,6.434865411871813e-08
+cat__model_fiat avventura,5.655492865345607e-08
+cat__model_maruti esteem,5.5053579705923193e-08
+cat__model_toyota corolla,4.499287641808088e-08
+cat__model_maruti ciaz s,4.233029929006089e-08
+cat__state_dadra and nagar haveli,4.045836854306658e-08
+cat__model_maruti baleno rs,3.95866618988927e-08
+cat__model_fiat linea classic,3.897338230002865e-08
+cat__model_hyundai getz,3.638327799393611e-08
+cat__model_mahindra bolero neo,3.542552853792806e-08
+cat__model_toyota qualis,3.4771231793934554e-08
+cat__model_tata indigo marina,3.4209893373514976e-08
+cat__model_fiat avventura urban cross,3.297837717977417e-08
+cat__model_maruti super carry,3.255712687026995e-08
+cat__model_fiat punto abarth,3.017826456485151e-08
+cat__model_mahindra willys,2.871879757217133e-08
+cat__model_maruti ertiga tour,2.5273468955113783e-08
+cat__model_maruti eeco cargo,2.4548089863841043e-08
+cat__state_manipur,2.4236567021284513e-08
+cat__model_porsche 718,2.2678637053953856e-08
+cat__model_fiat palio,2.2219983489378256e-08
+cat__model_ashok leyland stile,2.149389661179286e-08
+cat__model_mitsubishi cedia,2.136819691861344e-08
+cat__Tyre Type_tube,1.9393158925573112e-08
+cat__model_maruti 800,1.8458693783526028e-08
+cat__model_fiat punto pure,1.808071246362526e-08
+cat__model_mahindra bolero camper,1.580103428511921e-08
+cat__model_tata indica xeta,1.5616380908355143e-08
+cat__model_tata sumo,1.5419229238700023e-08
+cat__model_mercedes-benz g,1.5135386158496114e-08
+cat__model_mahindra logan,1.445221644287702e-08
+cat__oem_icml,1.2677336544964406e-08
+cat__model_mitsubishi lancer,1.192222945454035e-08
+cat__state_nagaland,1.1804046994290776e-08
+cat__model_maruti zen,1.1386689584095826e-08
+cat__model_mahindra e2o,1.0848086702789197e-08
+cat__model_icml extreme,9.342819753487121e-09
+cat__model_ford classic,7.1938454380281084e-09
+cat__model_tata venture,5.635883404000324e-09
+cat__oem_ashok leyland,5.371330645390606e-09
+cat__model_premier rio,5.183406329019959e-09
+cat__model_ambassador,4.887691685126127e-09
+cat__model_mahindra jeep,4.29670342831325e-09
+cat__model_mahindra supro,3.936355235736015e-09
+cat__model_fiat palio nv,3.747668021271625e-09
+cat__model_ford fusion,3.1788415402389613e-09
+cat__model_maruti alto 2021,2.91509435852152e-09
+cat__oem_bajaj,2.875071235435235e-09
+cat__oem_hindustan motors,1.8956844820141003e-09
+cat__model_fiat adventure,1.690771931563915e-09
+cat__oem_opel,1.39121411619406e-09
+cat__model_nissan x-trail,9.688726981019381e-10
+cat__model_maruti versa,9.562119485631103e-10
+cat__model_force gurkha,8.332932373884967e-10
+cat__oem_premier,1.0064372017526361e-10
+cat__model_icml rhino rx,9.746165132116588e-11
+cat__model_opelcorsa,3.2114765069652346e-11
+cat__model_mitsubishi montero,1.8028829426538906e-13
+cat__model_bajaj re60,0.0
+cat__oem_aston martin,0.0
